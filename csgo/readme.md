@@ -3,4 +3,4 @@ srcds -game csgo -console +exec server.cfg  +mapgroup mg_active +map de_dust2  -
 
 
 To disable Valve Anti Cheat
-add the line  `<addr>`-insecure
+add the line`-insecure`
